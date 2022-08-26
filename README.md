@@ -19,7 +19,7 @@
 </h1>
 <p align="center">
     <a href="https://github.com/BendrTheDev">
-      <img src="https://lanyard.cnrad.dev/api/973552971658965042/Message=Im+not+working"/>
+      <img src="https://lanyard.cnrad.dev/api/973552971658965042/?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Im+Not+Working"/>
 </p>
 </body>
 </html>
