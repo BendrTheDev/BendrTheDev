@@ -19,7 +19,7 @@
 </h1>
 <p align="center">
     <a href="https://github.com/BendrTheDev">
-      <img src="https://lanyard.cnrad.dev/api/973552971658965042"/>
+      <img src="https://lanyard.cnrad.dev/api/973552971658965042/Nothin+UwU"/>
 </p>
 </body>
 </html>
