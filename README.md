@@ -24,7 +24,12 @@
     <big>Join Discord</big>
   </button>
   </a></br>
-  <strong>Python Developer</strong></br>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="512" height="512">
+<h1 align="center">
+    Discord Status
+</h1>
+<p align="center">
+    <a href="https://github.com/BendrTheDev">
+      <img src="https://lanyard.cnrad.dev/api/975898528859697182?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Lua+Developer" />
+</p>
 </body>
 </html>
