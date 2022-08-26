@@ -29,7 +29,7 @@
 </h1>
 <p align="center">
     <a href="https://github.com/BendrTheDev">
-      <img src="https://lanyard.cnrad.dev/api/975898528859697182?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Lua+Developer" />
+      <img src="https://lanyard.cnrad.dev/api/973552971658965042"/>
 </p>
 </body>
 </html>
