@@ -24,5 +24,7 @@
     <big>Join Discord</big>
   </button>
   </a>
+  <strong>Python Developer</strong></br>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
 </body>
 </html>
