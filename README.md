@@ -1,16 +1,55 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+<title>Greegy Gang</title>
+<style>
+  body {
+    background-image: url('bacground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  </style>
+  <style>
+    h1 {
+      text-shadow: 0 0 3px #fff;
+    }
+    </style>
+    <style>
+      h2 {
+        text-shadow: 0 0 3px #fff;
+      }
+      </style>
+      <style>
+        .container {
+          position: relative;
+          width: 100%;
+          max-width: 400px;
+        }
+</style>
 
-<!--
-**BendrTheDev/BendrTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</head>
+<body>
+<center>
+</br>
+</br></br>
+</br>
+</br>
+</br>
+</br>
+</br>
+ <strong> <big><h1>BendrTheDev</h1></big></strong>
+  <strong><big><h2>Roblox Developer</h2></big></strong>
+</br>
+</br>
+</br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discord.gg/cMTYrww3aJ" target="_blank">
+  <button class="button">
+    <big>Join Discord</big>
+  </button>
+  </a>
+</body>
+</html>
