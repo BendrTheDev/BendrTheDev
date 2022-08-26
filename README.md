@@ -23,8 +23,8 @@
   <button class="button">
     <big>Join Discord</big>
   </button>
-  </a>
+  </a></br>
   <strong>Python Developer</strong></br>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="512" height="512">
 </body>
 </html>
