@@ -6,12 +6,12 @@
 <body>
 <center>
 </br>
- <strong> <big><h1>BendrTheDev</h1></big></strong>
-  <strong><big><h2>Roblox Developer</h2></big></strong>
+  <center><strong> <big><h1>Gregoros</h1></big></strong></center>
+  <center><strong><big><h2>Advanced Python Developer</h2></big></strong></center>
 </br>
-<a href="https://discord.gg/cMTYrww3aJ" target="_blank">
+<a href="https://astraxbot.xyz" target="_blank">
   <button class="button">
-    <big>Join Discord</big>
+    <big>Discord Bot</big>
   </button>
   </a></br>
 <h1 align="center">
