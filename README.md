@@ -19,7 +19,7 @@
 </h1>
 <p align="center">
     <a href="https://github.com/BendrTheDev">
-      <img src="https://lanyard.cnrad.dev/api/973552971658965042/?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Im+Not+Working"/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1052261971128488039?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 </p>
 </body>
 </html>
